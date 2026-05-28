@@ -1,0 +1,20 @@
+# Frontend
+security-frontend/node_modules/
+security-frontend/dist/
+security-frontend/.env*
+
+# Backend
+security-backend/target/
+security-backend/.maven/
+security-backend/.mvn/
+
+# IDE & OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
